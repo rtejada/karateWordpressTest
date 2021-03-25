@@ -1,0 +1,10 @@
+{
+  "username":"#(users.username)",
+  "first_name": "#(users.first_name)",
+  "last_name": "#(users.last_name)",
+  "password": "#(users.password)",
+  "email":"#(users.email)",
+  "url" : "#(users.url)",
+  "description" : "#(description)",
+  "display_name": "#(users.display_name)"
+}

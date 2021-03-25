@@ -1,0 +1,17 @@
+karate-config.js
+karate-config-*.js
+src/test/java/data
+src/test/java/settings_couchbase.json
+src/test/java/settings_oracle.json
+src/test/java/utility
+src/test/java/launcher
+.eslintrc.json
+.gherkin-lintrc
+target
+.idea
+*.iml
+.project
+.settings/
+.classpath
+gherkinRules
+.githooks

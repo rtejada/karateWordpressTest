@@ -1,0 +1,36 @@
+{
+  "id": "#number",
+  "name": "#string",
+  "url": "##string",
+  "description": "#string",
+  "link": "#string",
+  "slug": "#string",
+  "avatar_urls": {
+    "24": "#string",
+    "48": "#string",
+    "96": "#string"
+  },
+  "meta": "#array",
+  "woocommerce_meta": {
+    "activity_panel_inbox_last_read": "##string",
+    "activity_panel_reviews_last_read": "##string",
+    "categories_report_columns": "##string",
+    "coupons_report_columns": "##string",
+    "customers_report_columns": "##string",
+    "orders_report_columns": "##string",
+    "products_report_columns": "##string",
+    "revenue_report_columns": "##string",
+    "taxes_report_columns": "##string",
+    "variations_report_columns": "##string",
+    "dashboard_sections": "##string",
+    "dashboard_chart_type": "##string",
+    "dashboard_chart_interval": "##string",
+    "dashboard_leaderboard_rows": "##string",
+    "homepage_stats": "##string"
+  },
+  "yoast_head": "#string",
+  "_links": {
+    "self": "#array",
+    "collection": "#array"
+  }
+}
